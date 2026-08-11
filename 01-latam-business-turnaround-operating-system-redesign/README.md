@@ -1198,6 +1198,391 @@ That makes the entire organization faster.
 
 ---
 
+# Leadership Reset & Organizational Rebuild
+
+Systems do not execute themselves.
+
+People do.
+
+And one of the clearest conclusions from the diagnosis was that changing the commercial model without addressing leadership would not be enough.
+
+The organization had been operating through a difficult period.
+
+Performance had declined.
+
+Direction from the matrix was not always clear.
+
+Accountability had weakened.
+
+Coordination across functions was inconsistent.
+
+Morale was low.
+
+Some people had lost confidence in the direction of the business.
+
+The leadership challenge was therefore bigger than improving individual performance.
+
+We needed to rebuild clarity, ownership, capability, and confidence across the organization.
+
+---
+
+# Start With the Leadership Team
+
+My first responsibility was to assess whether the existing leadership structure was capable of delivering the turnaround.
+
+I looked at several things:
+
+- Does this person understand the business?
+- Can they lead through change?
+- Do they take ownership of outcomes?
+- Can they make decisions?
+- Do they use data?
+- Can they develop their team?
+- Do they work effectively across functions?
+- Do they solve problems or escalate them?
+- Are they aligned with where the business needs to go?
+- Can they operate with greater accountability?
+
+The objective was not change for the sake of change.
+
+It was to make sure the organization had the leadership required for the next stage.
+
+---
+
+# Make the Difficult Decisions
+
+Not every leader was going to make the transition.
+
+Three underperforming mid-level managers were ultimately removed.
+
+Other responsibilities were reassigned.
+
+Parts of the management layer were rebuilt.
+
+People were moved closer to activities where they could create stronger business impact.
+
+These were not easy decisions.
+
+But avoiding them would have transferred the cost of weak leadership to the rest of the organization.
+
+A turnaround requires clarity about standards.
+
+And leadership has to be held to those standards first.
+
+---
+
+# Reconnect People With the Business
+
+Changing the organization was only part of the work.
+
+People also needed to understand where we were going.
+
+The business had been operating under pressure for a sustained period.
+
+When that happens, teams can become focused on surviving the next problem rather than building the next result.
+
+We needed to reconnect everyday work with a clearer business purpose.
+
+That meant making the direction simpler:
+
+**Where are we going?**
+
+**What are we trying to achieve?**
+
+**Why does it matter?**
+
+**What are the priorities?**
+
+**What does my team own?**
+
+**What do I personally own?**
+
+**How will we know whether we are succeeding?**
+
+Clarity became part of the turnaround.
+
+---
+
+# From Functions to One Business
+
+Another priority was reducing the distance between functions.
+
+Sales could not succeed if marketing generated the wrong demand.
+
+Marketing could not improve if sales did not provide feedback.
+
+Sales could not create sustainable growth if customers churned after acquisition.
+
+Customer experience could not solve problems created by poor commercial expectations.
+
+Partnerships could not scale without commercial ownership.
+
+Operations could not support growth without visibility into what was coming.
+
+The organization therefore needed to stop thinking only in functions.
+
+We needed to think in business outcomes.
+
+Instead of:
+
+**Marketing → Sales → Operations → Customer Experience**
+
+The logic became:
+
+**Customer → Demand → Conversion → Delivery → Experience → Retention → Revenue**
+
+Different teams owned different parts.
+
+But everyone was contributing to the same business system.
+
+---
+
+# Clear Ownership
+
+For each major priority, we worked toward a simple standard:
+
+**One outcome. One accountable owner.**
+
+That did not mean one person did everything.
+
+It meant one person was responsible for making sure the outcome happened.
+
+The owner needed to know:
+
+- The objective
+- The KPI
+- The baseline
+- The expected result
+- The dependencies
+- The actions underway
+- The risks
+- When intervention was required
+
+This reduced one of the problems we had inherited:
+
+Everyone being involved, but nobody clearly owning the result.
+
+---
+
+# Management Became More Active
+
+The management role also needed to change.
+
+Managers could not simply report what had happened.
+
+They needed to manage what happened next.
+
+The expectation became:
+
+**Know your numbers.**
+
+**Know your people.**
+
+**Know your customers.**
+
+**Know what is off plan.**
+
+**Understand why.**
+
+**Have a response.**
+
+**Own the follow-through.**
+
+That sounds basic.
+
+But it changes the quality of management quickly.
+
+---
+
+# Performance and Support
+
+Accountability did not mean creating a culture of blame.
+
+If performance was below expectation, the first question was:
+
+> **What is preventing this person or team from succeeding?**
+
+The answer could be:
+
+- Lack of clarity
+- Poor process
+- Insufficient capability
+- Wrong priorities
+- Weak management
+- Resource constraints
+- Technology
+- Incentives
+- Market conditions
+- Individual performance
+
+Different causes require different responses.
+
+The leadership job was to diagnose before acting.
+
+But once the cause was understood, action needed to follow.
+
+---
+
+# Build Capability, Not Dependency
+
+A turnaround can easily create another problem.
+
+Everything starts depending on the person leading the turnaround.
+
+That is not sustainable.
+
+My objective was to build a management team that could increasingly run the system without requiring my involvement in every decision.
+
+That meant:
+
+- Giving leaders clearer ownership
+- Increasing decision authority where appropriate
+- Coaching through real business problems
+- Reviewing performance consistently
+- Challenging assumptions
+- Developing commercial understanding
+- Improving cross-functional collaboration
+- Creating stronger management habits
+
+The goal was not for me to become the operating system.
+
+The goal was to build one the organization could run.
+
+---
+
+# Leadership Cadence
+
+The management cadence supported this.
+
+## Weekly 1:1s
+
+Focused on:
+
+- Performance
+- Priorities
+- People
+- Problems
+- Decisions
+- Commitments
+
+## Weekly Commercial Reviews
+
+Focused on:
+
+- Demand
+- Pipeline
+- Conversion
+- Forecast
+- Sales execution
+- Immediate interventions
+
+## Monthly Business Reviews
+
+Focused on:
+
+- Performance versus plan
+- KPI trends
+- Team performance
+- Customer signals
+- Resource allocation
+- Cross-functional issues
+- Corrective actions
+
+## Quarterly Business Reviews
+
+Focused on:
+
+- Business direction
+- Market performance
+- Leadership capability
+- Strategic priorities
+- Structural issues
+- Resource decisions
+- What to stop
+- What to scale
+
+The cadence created repetition.
+
+Repetition created management habits.
+
+---
+
+# What Changed
+
+The organizational changes were gradual, but visible.
+
+Leadership accountability became clearer.
+
+The management layer became stronger.
+
+Decision making improved.
+
+Cross-functional coordination increased.
+
+Local ownership increased.
+
+Teams had greater clarity around priorities.
+
+Performance conversations became more evidence-based.
+
+Managers became more accountable for outcomes rather than activities.
+
+The organization became better able to identify problems and respond to them.
+
+And as business performance recovered, confidence began to return.
+
+That mattered.
+
+Because sustainable performance requires more than a good plan.
+
+It requires an organization that believes it can execute it.
+
+---
+
+# The Leadership Principle
+
+The lesson I took from this part of the turnaround was:
+
+> **Do not ask an organization to change without asking whether its leaders are capable of leading the change.**
+
+Sometimes the answer is development.
+
+Sometimes it is clearer accountability.
+
+Sometimes it is more authority.
+
+Sometimes it is better support.
+
+And sometimes it requires changing the leader.
+
+The executive responsibility is knowing the difference.
+
+---
+
+# What I Would Protect
+
+There is one part of this approach I would use again in almost any transformation:
+
+**Clarity before pressure.**
+
+Before demanding more from a team, make sure people understand:
+
+What matters.
+
+What they own.
+
+How success is measured.
+
+What authority they have.
+
+Where they need support.
+
+Then hold the standard.
+
+That combination of clarity, support, and accountability is much more powerful than simply increasing pressure.
+
+---
+
 # The Principle Behind the Blueprint
 
 The system was designed to reduce the distance between:
