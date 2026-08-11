@@ -4,7 +4,7 @@
 
 Company: EF Education First  
 Role: Managing Director  
-Geography: LATAM markets  
+Geography: LATAM   
 Business: Multi-product international education business across B2C, B2B, and B2G  
 Mandate: Full P&L leadership and regional turnaround  
 Focus: Leadership | Operations | GTM | Revenue | Partnerships | Customer Experience | Profitability
@@ -875,6 +875,327 @@ The principle behind the KPI system became simple:
 A dashboard tells you what happened.
 
 Management begins when you understand why it happened and decide what to do next.
+
+---
+
+# Decision Rights & Matrix Reset
+
+One of the hardest parts of the turnaround was not commercial.
+
+It was organizational.
+
+EF operated through a global matrix.
+
+That structure brought expertise, resources, and global capabilities into the markets.
+
+But in the situation I inherited, it was also creating friction.
+
+Multiple HQ functions could influence the same business.
+
+Different stakeholders had different priorities.
+
+Communication between HQ and the region was not working well enough.
+
+Local teams could receive different views on what should happen.
+
+Decisions took too long.
+
+And when several people could influence a decision, accountability for the result could become unclear.
+
+The problem was not the matrix itself.
+
+The problem was how we were operating inside it.
+
+---
+
+# The Management Problem
+
+The pattern looked like this:
+
+**Multiple Stakeholders**  
+↓  
+**Different Priorities**  
+↓  
+**Conflicting Direction**  
+↓  
+**Slow Decisions**  
+↓  
+**Unclear Ownership**  
+↓  
+**Weak Execution**
+
+This created another problem.
+
+Local managers spent too much time managing internal complexity.
+
+The business needed them managing customers, teams, partners, performance, and execution.
+
+That had to change.
+
+---
+
+# What Needed to Be Clear
+
+For the operating model to work, every important decision needed answers to four questions:
+
+**Who owns the outcome?**
+
+**Who makes the decision?**
+
+**Who needs to contribute?**
+
+**Who needs to know?**
+
+Those questions sound simple.
+
+Inside a complex matrix, they are not.
+
+If everyone needs to approve everything, the organization slows down.
+
+If nobody knows who has authority, decisions escalate unnecessarily.
+
+If HQ makes decisions without enough local context, execution suffers.
+
+If local markets operate without alignment, the organization fragments.
+
+The objective was therefore not complete local autonomy.
+
+It was clearer decision rights.
+
+---
+
+# Global Standards vs. Local Execution
+
+One of the principles I worked toward was separating what needed global consistency from what required local judgment.
+
+| Global / HQ | Regional / Local |
+| --- | --- |
+| Brand and global positioning | Local market execution |
+| Core product standards | ICP prioritization |
+| Global financial governance | Local commercial priorities |
+| Technology platforms | Channel mix |
+| Corporate policies | Partnership development |
+| Strategic guardrails | Local demand generation |
+| Global reporting requirements | Sales execution |
+| Enterprise capabilities | Customer and market response |
+
+The exact boundary could change depending on the decision.
+
+But the principle remained:
+
+> **Standardize what creates scale. Localize what creates market performance.**
+
+---
+
+# Rebuilding the Communication Bridge
+
+The region also needed a better connection with HQ.
+
+That meant changing the quality of the conversation.
+
+Instead of:
+
+**Here is the problem. What should we do?**
+
+The regional leadership conversation needed to become:
+
+**Here is what is happening.**
+
+**Here is what the data tells us.**
+
+**Here is what we believe is causing it.**
+
+**Here is what we recommend.**
+
+**Here is what we need from HQ.**
+
+**Here is who owns execution.**
+
+**Here is when we will review the result.**
+
+That reduced unnecessary escalation.
+
+It also made regional leadership more accountable.
+
+HQ remained important.
+
+But the region needed to arrive with evidence, judgment, and a recommendation.
+
+---
+
+# From Opinion to Evidence
+
+This was particularly important because there were many experienced people around the business.
+
+Experience is valuable.
+
+But when many stakeholders have different views, management can quickly become opinion-driven.
+
+The operating system helped change that.
+
+Instead of debating:
+
+**What do we think is happening?**
+
+We could increasingly ask:
+
+**What does the evidence show?**
+
+Pipeline.
+
+Conversion.
+
+Lead quality.
+
+Response time.
+
+CAC.
+
+Churn.
+
+NPS.
+
+Partner contribution.
+
+Revenue.
+
+Profitability.
+
+The data did not make the decision for us.
+
+It gave us a common starting point for making a better decision.
+
+---
+
+# Local Ownership
+
+A turnaround requires speed.
+
+That meant pushing more ownership toward the people closest to the market where appropriate.
+
+Local leaders needed enough authority to:
+
+- Respond to market conditions
+- Manage commercial execution
+- Develop partnerships
+- Allocate attention across channels
+- Address team performance
+- Solve customer problems
+- Intervene when KPIs moved off plan
+
+With that authority came accountability.
+
+More local ownership could not mean less control.
+
+It meant:
+
+**More authority + clearer KPIs + stronger accountability**
+
+That combination mattered.
+
+---
+
+# Decision Escalation
+
+Not every decision needed HQ involvement.
+
+A practical distinction was:
+
+## Decide Locally
+
+When the decision was within agreed guardrails and primarily affected local execution.
+
+## Align
+
+When the decision affected other functions, markets, or shared resources.
+
+## Escalate
+
+When the decision involved material financial exposure, global policy, brand, major organizational change, or issues outside regional authority.
+
+This helped reduce unnecessary escalation while protecting the areas where global alignment genuinely mattered.
+
+---
+
+# Leadership Accountability
+
+Decision rights only work when accountability is equally clear.
+
+For important priorities, the expectation became:
+
+**One outcome. One accountable owner.**
+
+Many people could contribute.
+
+Many people could advise.
+
+Many people could execute parts of the work.
+
+But accountability could not belong to a committee.
+
+This became particularly important across:
+
+- Revenue
+- Marketing
+- Sales
+- Partnerships
+- Customer experience
+- Market performance
+- Team performance
+- Strategic initiatives
+
+When ownership became clearer, management became faster.
+
+---
+
+# What Changed
+
+The organizational reset gradually changed how the region operated.
+
+Communication with HQ became more structured.
+
+Local recommendations became more evidence-based.
+
+Decision making moved closer to the market where appropriate.
+
+Leadership accountability became clearer.
+
+Cross-functional coordination improved.
+
+Teams had greater clarity about priorities.
+
+Management discussions became more focused on performance and action.
+
+And the region became better able to respond without waiting for every issue to travel through the matrix.
+
+The objective was never to remove the matrix.
+
+It was to make the matrix work better.
+
+---
+
+# The Practical Rule
+
+The lesson I took from this was simple:
+
+> **The person closest to the problem should have enough authority to solve it, within clear business guardrails.**
+
+And when a decision does need to move upward:
+
+Do not escalate a problem alone.
+
+Bring the facts.
+
+Bring the diagnosis.
+
+Bring the options.
+
+Bring a recommendation.
+
+Be clear about the decision you need.
+
+That makes the entire organization faster.
+
 ---
 
 # The Principle Behind the Blueprint
