@@ -1650,6 +1650,775 @@ The goal was to stop treating LATAM as one generic commercial problem and start 
 
 ---
 
+# GTM, ICP & Revenue Engine Redesign
+
+Once the operating and leadership issues were clearer, we needed to rebuild how the business created revenue.
+
+The commercial problem was not simply that sales were down.
+
+The entire chain needed attention:
+
+**Market → ICP → Demand → Channel → Lead → Pipeline → Conversion → Customer → Retention → Revenue**
+
+If one part of that chain was weak, pressure moved somewhere else.
+
+More leads would not solve poor conversion.
+
+More sales activity would not solve weak ICP.
+
+More marketing spend would not solve a slow response time.
+
+More customers would not create sustainable growth if churn remained high.
+
+The revenue engine had to be managed as one connected system.
+
+---
+
+# Start With the Customer
+
+One of the first questions was basic:
+
+> **Who exactly are we trying to win?**
+
+The region needed greater clarity around ICP and segmentation.
+
+Different customer groups had different needs, buying behaviors, economics, decision cycles, and acquisition routes.
+
+We therefore sharpened the GTM around priority segments including:
+
+- K12
+- Higher Education
+- Young professionals
+- Corporate relationships
+- Other relevant customer segments
+
+This affected much more than marketing.
+
+ICP influenced:
+
+**Messaging → Channel → Campaign → Sales Approach → Pricing → Partnership Strategy → Customer Experience**
+
+The objective was to focus resources where the business had the strongest probability of creating value.
+
+---
+
+# Localize the GTM
+
+LATAM could not be managed simply as an extension of a global commercial model.
+
+Global capabilities remained important.
+
+But execution needed to reflect local market reality.
+
+That included:
+
+- Customer behavior
+- Channel dynamics
+- Partnerships
+- Local competition
+- Buying patterns
+- Commercial expectations
+- Payment behavior
+- Market maturity
+
+The principle was:
+
+> **Use global scale where it creates an advantage. Localize where market reality requires it.**
+
+That became particularly important in demand generation, partnerships, commercial execution, and customer engagement.
+
+---
+
+# Rebuild Demand Quality
+
+The business did not simply need more leads.
+
+It needed more of the right leads.
+
+At the starting point:
+
+**Lead flow was down approximately 30%.**
+
+**SQL quality was down approximately 30%.**
+
+That required us to look upstream.
+
+Questions included:
+
+- Are we targeting the right ICP?
+- Are campaigns reaching the right audience?
+- Which channels create qualified demand?
+- Which channels create volume but little commercial value?
+- Are sales and marketing using the same definition of quality?
+- Are local market insights feeding back into demand generation?
+
+The objective shifted from:
+
+**Generate leads**
+
+to:
+
+**Generate demand that can convert economically.**
+
+---
+
+# Rebuild the Funnel
+
+Once demand entered the business, the commercial process needed greater discipline.
+
+The funnel was redesigned around clearer stages and ownership.
+
+The basic logic became:
+
+**Lead**  
+↓  
+**Qualified Opportunity**  
+↓  
+**Commercial Engagement**  
+↓  
+**Pipeline**  
+↓  
+**Decision**  
+↓  
+**Customer**  
+↓  
+**Retention / Expansion**
+
+For each stage we needed to understand:
+
+- What qualifies movement?
+- Who owns it?
+- How long should it take?
+- What is the conversion rate?
+- Where are customers dropping?
+- Why?
+- What action is required?
+
+This turned the funnel from a reporting mechanism into a management tool.
+
+---
+
+# Speed Matters
+
+One of the clearest operating problems was lead response.
+
+The starting point was approximately:
+
+**5 days**
+
+That was reduced to:
+
+**24 hours**
+
+This mattered because response time affected several downstream metrics.
+
+**Faster Response → Better Engagement → Better Conversion → Shorter Sales Cycle → Better Acquisition Economics**
+
+A seemingly small operational KPI was affecting the performance of the entire commercial engine.
+
+---
+
+# Conversion
+
+Conversion was approximately:
+
+**1.5%**
+
+Following the redesign, it increased to approximately:
+
+**3%**
+
+Roughly double the starting level.
+
+But conversion was never treated as a sales-only metric.
+
+It depended on:
+
+- ICP
+- Lead quality
+- Channel
+- Response time
+- Sales capability
+- Process
+- Pricing
+- Payment options
+- Value proposition
+- Customer need
+- Follow-up
+- Management discipline
+
+That changed the management conversation.
+
+When conversion moved, we looked across the system rather than automatically blaming the sales team.
+
+---
+
+# Sales Velocity
+
+The sales cycle was approximately:
+
+**3 months**
+
+It was reduced to approximately:
+
+**6 weeks**
+
+The objective was not simply to pressure customers into deciding faster.
+
+We looked for friction.
+
+Where were opportunities stopping?
+
+What information was missing?
+
+Where were approvals slow?
+
+Was follow-up disciplined?
+
+Was pricing clear?
+
+Were payment structures creating friction?
+
+Was the customer receiving the right information at the right time?
+
+Reducing friction improved velocity.
+
+And better velocity improved revenue productivity.
+
+---
+
+# Acquisition Economics
+
+Customer acquisition cost was approximately:
+
+**22%**
+
+It improved to approximately:
+
+**12%**
+
+Again, CAC was not treated as a marketing metric.
+
+It reflected the combined efficiency of:
+
+**Targeting + Channel + Marketing + Sales + Conversion + Customer Value**
+
+A cheaper lead that did not convert was not necessarily better.
+
+A more expensive channel that produced high-quality, high-retention customers could be economically stronger.
+
+The objective was therefore not:
+
+**Minimize CAC**
+
+It was:
+
+> **Build sustainable customer acquisition economics.**
+
+---
+
+# Pricing and Payment
+
+Pricing also became part of the commercial system.
+
+We reviewed where pricing or payment structures were creating unnecessary friction.
+
+The question was not simply:
+
+**Can we discount?**
+
+It was:
+
+**How do we improve the probability of purchase while protecting the economics of the business?**
+
+That required balancing:
+
+- Customer affordability
+- Product value
+- Conversion
+- Revenue per customer
+- Margin
+- Payment flexibility
+
+Commercial decisions needed an economic rationale.
+
+---
+
+# Partnerships & Distribution
+
+One of the largest opportunities was rebuilding distribution beyond direct acquisition.
+
+Several important channels had weakened.
+
+These included:
+
+- Higher Education
+- K12
+- Agent networks
+- Corporate relationships
+- Local market coverage
+
+The agent vertical in particular required attention.
+
+The issue was not whether agents could produce activity.
+
+The question was whether the channel could produce enough qualified demand, customers, and revenue to justify the resources behind it.
+
+That same standard was applied across partnerships.
+
+We moved toward evaluating partnerships based on contribution:
+
+**Access → Qualified Demand → Customers → Revenue → Economics**
+
+Not simply the number of relationships.
+
+---
+
+# Rebuilding the Partnership Engine
+
+We reactivated and developed relationships across education, corporate, and agent channels.
+
+Partnership ownership became clearer.
+
+The commercial proposition became more deliberate.
+
+Coverage increased.
+
+Physical presence was selectively reactivated where there was a clear business case.
+
+Over time:
+
+> **Partnerships contributed approximately 18% to 20% of revenue.**
+
+This became an important part of the turnaround.
+
+It reduced dependence on a narrower acquisition model and created additional routes into the market.
+
+---
+
+# Business Units & New Sources of Growth
+
+The turnaround was not only about repairing the existing engine.
+
+We also looked for parts of the business that could be rebuilt, accelerated, or developed further.
+
+The question was:
+
+> **Where else can this organization create profitable growth using capabilities we already have or can realistically build?**
+
+That required looking across:
+
+- Existing business units
+- Underdeveloped customer segments
+- Partnership channels
+- Corporate opportunities
+- Education relationships
+- Local distribution
+- New commercial motions
+
+Not every opportunity deserved investment.
+
+The operating discipline was to distinguish:
+
+**Interesting opportunity**
+
+from:
+
+**Scalable business opportunity**
+
+The second required:
+
+- Demand
+- Clear customer
+- Commercial ownership
+- Economics
+- Capability
+- Repeatability
+
+This helped create additional sources of growth without losing focus on the core turnaround.
+
+---
+
+# Customer Experience Became Part of Revenue
+
+Acquisition was only half the commercial equation.
+
+At the starting point:
+
+**NPS: approximately 35**
+
+**Churn: approximately 22%**
+
+That meant the business was losing too much value after acquisition.
+
+We strengthened the connection between sales and post-sale experience.
+
+Customer feedback became more visible.
+
+Surveys helped us understand where the experience was breaking.
+
+Customer issues became management inputs rather than isolated service problems.
+
+Over time:
+
+**NPS increased to approximately 76.**
+
+**Churn decreased to approximately 12%.**
+
+The commercial logic was straightforward:
+
+> **Revenue you retain is part of the revenue engine too.**
+
+---
+
+# Connecting the Revenue System
+
+The final model looked less like a traditional sales funnel and more like a connected revenue system.
+
+**ICP**  
+↓  
+**GTM**  
+↓  
+**Demand**  
+↓  
+**Distribution**  
+↓  
+**Lead Quality**  
+↓  
+**Response**  
+↓  
+**Pipeline**  
+↓  
+**Conversion**  
+↓  
+**Customer Experience**  
+↓  
+**Retention**  
+↓  
+**Revenue**  
+↓  
+**Profitability**
+
+And around the entire system:
+
+**Leadership | KPIs | Ownership | Data | Cadence | Decisions**
+
+That was the commercial architecture behind the turnaround.
+
+---
+
+# Technology as an Operating Lever
+
+Technology was useful only when it solved a defined business problem.
+
+The turnaround required stronger CRM discipline first.
+
+Data had to become usable.
+
+Pipeline stages needed meaning.
+
+Commercial activity needed visibility.
+
+Managers needed to trust the information they were using.
+
+Only then could technology create more leverage.
+
+AI-enabled prioritization was introduced within Salesforce to help commercial teams focus attention on stronger opportunities.
+
+The objective was not to say that we were using AI.
+
+The objective was:
+
+**Better prioritization. Better productivity. Better commercial decisions.**
+
+Technology supported the operating system.
+
+It did not replace it.
+
+---
+
+# Execution & Course Correction
+
+No turnaround follows the original plan exactly.
+
+Some assumptions are right.
+
+Others are wrong.
+
+Markets respond differently.
+
+People respond differently.
+
+Channels perform differently.
+
+New problems appear.
+
+That is why execution needed a feedback loop.
+
+**Plan → Execute → Measure → Learn → Adjust**
+
+The weekly, monthly, and quarterly cadence allowed us to identify deviations and respond.
+
+When something worked:
+
+We strengthened it.
+
+When something did not:
+
+We diagnosed why.
+
+When a channel underperformed:
+
+We challenged the economics.
+
+When a leader struggled:
+
+We diagnosed capability, clarity, support, and performance.
+
+When a KPI deteriorated:
+
+We looked for the driver.
+
+When market evidence contradicted an assumption:
+
+We changed the assumption.
+
+The plan was important.
+
+Learning faster than the problem was more important.
+
+---
+
+# Results
+
+The turnaround produced measurable changes across the business.
+
+## Financial
+
+**Profitability restored within 12 months.**
+
+Growth returned across the LATAM operation.
+
+The region recovered strategic credibility inside the global organization.
+
+## Commercial
+
+**Conversion:** approximately 1.5% → approximately 3%
+
+**Sales cycle:** approximately 3 months → approximately 6 weeks
+
+**Lead response:** approximately 5 days → 24 hours
+
+**CAC:** approximately 22% → approximately 12%
+
+## Customer
+
+**NPS:** approximately 35 → approximately 76
+
+**Churn:** approximately 22% → approximately 12%
+
+## Distribution
+
+Partnership channels were rebuilt across education, corporate, and agent relationships.
+
+**Partnership contribution:** approximately 18% to 20% of revenue.
+
+## Organization
+
+Leadership accountability strengthened.
+
+Management roles became clearer.
+
+Local ownership increased.
+
+Cross-functional coordination improved.
+
+The operating cadence became consistent.
+
+Performance became more visible.
+
+Decision making became more evidence-based.
+
+---
+
+# Before & After
+
+| Dimension | Before | After |
+| --- | --- | --- |
+| Leadership | Fragmented | Clearer ownership and accountability |
+| Matrix | Conflicting direction | Stronger HQ / regional operating bridge |
+| GTM | Inconsistent | Clearer ICP and market focus |
+| Demand | Lead flow down approximately 30% | Demand system rebuilt |
+| SQL Quality | Down approximately 30% | Improved through GTM and prioritization |
+| Lead Response | Approximately 5 days | 24 hours |
+| Conversion | Approximately 1.5% | Approximately 3% |
+| Sales Cycle | Approximately 3 months | Approximately 6 weeks |
+| CAC | Approximately 22% | Approximately 12% |
+| NPS | Approximately 35 | Approximately 76 |
+| Churn | Approximately 22% | Approximately 12% |
+| Partnerships | Channels weakened | Approximately 18% to 20% revenue contribution |
+| Management | Fragmented reporting | KPI-driven operating cadence |
+| Decisions | Slow and opinion-driven | Clearer ownership and stronger use of evidence |
+| Profitability | Under pressure | Restored within 12 months |
+
+---
+
+# What Actually Created the Result
+
+Looking back, I would not attribute the turnaround to one decision.
+
+It came from improving the connections between decisions.
+
+Leadership affected accountability.
+
+Accountability affected execution.
+
+ICP affected demand quality.
+
+Demand quality affected conversion.
+
+Response time affected sales velocity.
+
+Partnerships affected distribution.
+
+Customer experience affected retention.
+
+Retention affected economics.
+
+KPIs affected visibility.
+
+Visibility affected decisions.
+
+Decision rights affected speed.
+
+Management cadence affected how quickly we corrected problems.
+
+These were not separate initiatives.
+
+They were one operating system.
+
+---
+
+# What I Would Do Again
+
+Several elements of this turnaround are transferable.
+
+## 1. Diagnose Before Restructuring
+
+Do not assume the visible problem is the real problem.
+
+## 2. Start With the Outcome
+
+Be explicit about what the business must achieve.
+
+## 3. Find the Drivers
+
+Understand what actually produces the outcome.
+
+## 4. Fix Ownership
+
+One important outcome should have one accountable owner.
+
+## 5. Use KPIs as Signals
+
+Do not manage dashboards.
+
+Use the numbers to understand the system.
+
+## 6. Get Close to the Operation
+
+When the detail contains the answer, go into the detail.
+
+## 7. Connect Functions Around the Customer
+
+Revenue is not owned by one department.
+
+## 8. Push Decisions Close to the Problem
+
+Within clear business guardrails.
+
+## 9. Build Management Capability
+
+The executive cannot become the permanent operating system.
+
+## 10. Keep Adjusting
+
+Execution provides information.
+
+Use it.
+
+---
+
+# What This Case Proves
+
+This turnaround required me to operate across the full business.
+
+**P&L**
+
+Understanding the relationship between growth, acquisition economics, retention, resources, and profitability.
+
+**Operations**
+
+Turning objectives into operating priorities, processes, ownership, cadence, and execution.
+
+**Commercial**
+
+Rebuilding GTM, ICP, demand, pipeline, conversion, pricing, partnerships, and revenue performance.
+
+**Leadership**
+
+Making difficult people decisions, rebuilding the management layer, developing leaders, and restoring accountability.
+
+**Organization**
+
+Improving how a complex matrix worked across HQ, regional leadership, and local execution.
+
+**Customer**
+
+Connecting acquisition with customer experience, retention, and economics.
+
+**Technology**
+
+Using CRM, data, and AI against defined operating problems.
+
+**Transformation**
+
+Changing multiple parts of the business while continuing to operate it.
+
+**Building**
+
+Creating capabilities, channels, management systems, and sources of growth that did not previously exist or were no longer working.
+
+---
+
+# The Monday Morning Takeaway
+
+If I had to reduce the entire turnaround to one operating principle, it would be this:
+
+> **When a business is underperforming, do not start by pushing harder. Start by understanding the system producing the result.**
+
+Then make the problem visible.
+
+Find the constraint.
+
+Clarify ownership.
+
+Decide what needs to change.
+
+Execute.
+
+Measure.
+
+Learn.
+
+Adjust.
+
+And repeat until the system produces a different result.
+
+That is what ultimately changed the business.
+
+---
+
 ## 3. Rebuild Partnerships and Distribution
 
 We actively rebuilt channels that had lost momentum.
