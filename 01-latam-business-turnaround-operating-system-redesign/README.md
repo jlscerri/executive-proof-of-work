@@ -665,6 +665,74 @@ The goal was not for me to become the system.
 
 ---
 
+# 14. Allocate Resources Around the Business Priorities
+
+Running the turnaround also meant making choices about where we put people, budget, and management attention.
+
+We could not fix everything at once.
+
+And not every activity deserved the same level of investment.
+
+I looked at the business through a few practical questions:
+
+- Where is the strongest opportunity?
+- What is producing results?
+- What is consuming resources without enough return?
+- Which channels should we rebuild?
+- Which capabilities are missing?
+- Where do we need stronger people?
+- What should we stop or reduce?
+- Where does local market reality justify a different approach?
+
+Those questions influenced decisions across teams, channels, partnerships, territories, and physical market coverage.
+
+Resources were moved closer to the priorities that could improve performance.
+
+Responsibilities were reassigned where we needed stronger commercial contribution.
+
+Partnership channels were rebuilt where they could create productive demand.
+
+Physical presence was selectively reactivated where there was a clear business case.
+
+Activities that could not demonstrate enough value were challenged.
+
+The objective was not simply to spend less.
+
+It was to use the resources we had better.
+
+## Growth Had to Earn Investment
+
+I did not want growth decisions based only on volume.
+
+A channel, initiative, or business opportunity needed to make sense commercially.
+
+The basic questions were:
+
+**Is there real demand?**
+
+**Can we win?**
+
+**Do we have the capability to execute?**
+
+**What resources will it require?**
+
+**What return can it produce?**
+
+**Can it become repeatable?**
+
+This also meant making trade-offs.
+
+More investment in one area meant less somewhere else.
+
+More management attention on one priority meant deliberately giving less attention to another.
+
+That is part of running a business.
+
+The goal was to keep resources connected to the priorities that mattered most.
+
+> **Strategy becomes real when you decide where the people, money, and management attention 
+---
+
 # The Results
 
 Within 12 months, the business returned to profitability.
