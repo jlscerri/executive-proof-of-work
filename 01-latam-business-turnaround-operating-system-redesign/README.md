@@ -603,6 +603,280 @@ Question:
 
 ---
 
+# KPI Architecture
+
+One of the biggest changes was moving from reporting numbers to managing the drivers behind them.
+
+A KPI was useful only if it helped us answer three questions:
+
+**What is happening?**
+
+**Why is it happening?**
+
+**What are we going to do about it?**
+
+The objective was not to build a bigger dashboard.
+
+It was to make the business easier to manage.
+
+---
+
+## The KPI Chain
+
+I wanted every important business outcome connected to the drivers that produced it.
+
+**Business Outcome**  
+↓  
+**Performance Driver**  
+↓  
+**KPI**  
+↓  
+**Owner**  
+↓  
+**Review**  
+↓  
+**Decision**  
+↓  
+**Action**
+
+That distinction mattered.
+
+Revenue is an outcome.
+
+Conversion is a driver.
+
+Lead quality is a driver.
+
+Response time is a driver.
+
+Churn is a driver.
+
+Partner productivity is a driver.
+
+If we waited for the revenue number to tell us something was wrong, we were already late.
+
+The operating system needed leading indicators that allowed us to intervene earlier.
+
+---
+
+# The Core KPI System
+
+| Business Area | KPI | Why It Mattered | Management Question |
+| --- | --- | --- | --- |
+| Demand | Lead Flow | Showed whether enough demand was entering the system | Do we have enough volume to support the revenue objective? |
+| Demand Quality | SQL Quality | Showed whether we were attracting the right customers | Are we generating opportunities that sales can realistically convert? |
+| Speed | Lead Response Time | Measured how quickly commercial teams acted on demand | Are we losing intent because we are responding too slowly? |
+| Pipeline | Qualified Pipeline | Showed future revenue potential | Do we have enough quality pipeline to deliver the plan? |
+| Commercial | Conversion Rate | Showed how effectively opportunities became customers | Where are we losing customers and why? |
+| Velocity | Sales Cycle | Showed how quickly opportunities became revenue | What is slowing the buying decision? |
+| Economics | CAC | Connected acquisition activity to economic efficiency | Are we acquiring customers at a sustainable cost? |
+| Customer | NPS | Provided a direct signal from the customer experience | What are customers telling us about the business? |
+| Retention | Churn | Showed how much acquired revenue we were losing | Why are customers leaving and what can we change? |
+| Distribution | Partner Contribution | Measured whether partnerships were producing real business | Which partnerships and channels are actually creating value? |
+| Revenue | Revenue Performance | Showed whether the commercial system was producing the required result | Are we delivering the plan and what is driving the variance? |
+| Financial | Profitability | Tested whether growth was creating economic value | Is the business becoming stronger as it grows? |
+
+---
+
+# Baseline to Improved Performance
+
+The initial baseline made the priorities visible.
+
+| KPI | Starting Point | Improved Performance |
+| --- | ---: | ---: |
+| Lead Flow | Down approximately 30% | Stabilized and rebuilt |
+| SQL Quality | Down approximately 30% | Improved through ICP, GTM, channel, and prioritization changes |
+| Lead Response Time | Approximately 5 days | 24 hours |
+| Conversion | Approximately 1.5% | Approximately 3% |
+| Sales Cycle | Approximately 3 months | Approximately 6 weeks |
+| CAC | Approximately 22% | Approximately 12% |
+| NPS | Approximately 35 | Approximately 76 |
+| Churn | Approximately 22% | Approximately 12% |
+| Partner Contribution | Underdeveloped | Approximately 18% to 20% of revenue |
+| Profitability | Under significant pressure | Restored within 12 months |
+
+The numbers mattered.
+
+But the more important question was what was causing them.
+
+---
+
+# From KPI to Management Action
+
+## Example 1: Conversion
+
+If conversion moved below expectation, the response was not:
+
+**Tell sales to sell more.**
+
+We needed to diagnose the funnel.
+
+Questions included:
+
+- Has lead quality changed?
+- Has the channel mix changed?
+- Are we targeting the right ICP?
+- Are leads being contacted quickly enough?
+- Where in the funnel are we losing customers?
+- Is the sales process being followed?
+- Is pricing creating friction?
+- Are payment options creating friction?
+- Is the value proposition clear?
+- Is the issue concentrated in one team, segment, channel, or stage?
+
+Only after understanding the cause could we decide what to change.
+
+---
+
+## Example 2: CAC
+
+If CAC increased, cutting marketing spend automatically could make the problem worse.
+
+We needed to understand the economics underneath it.
+
+Questions included:
+
+- Which channels are driving the increase?
+- Has conversion deteriorated?
+- Has lead quality changed?
+- Are we paying for demand outside the ICP?
+- Which campaigns are producing customers rather than leads?
+- Are partnerships producing lower-cost acquisition?
+- Is the problem marketing efficiency or sales efficiency?
+- Are we looking at acquisition cost together with customer value?
+
+The objective was not simply lower CAC.
+
+It was better acquisition economics.
+
+---
+
+## Example 3: Churn
+
+Churn was not treated only as a customer service KPI.
+
+It was a business KPI.
+
+Questions included:
+
+- Why are customers leaving?
+- At what point in the customer journey?
+- Are expectations being set correctly during the sale?
+- Is onboarding working?
+- Are there recurring service issues?
+- Are certain products, segments, or channels producing higher churn?
+- What are customers telling us directly?
+- Is the commercial team selling customers who are unlikely to succeed?
+
+This connected sales quality with customer experience and revenue retention.
+
+---
+
+## Example 4: Lead Response
+
+A five-day response time was not simply an operational inconvenience.
+
+It affected the economics of the entire funnel.
+
+Slower response could mean:
+
+**Lower engagement → Lower conversion → Longer sales cycle → Higher CAC → Lower revenue productivity**
+
+Reducing response time to 24 hours therefore mattered beyond the response-time KPI itself.
+
+It improved the system around it.
+
+---
+
+## Example 5: Partnerships
+
+Partnership activity was not measured by the number of meetings, agreements, or relationships.
+
+The question was whether partnerships created productive distribution.
+
+We looked at:
+
+- Qualified demand
+- Customer acquisition
+- Revenue contribution
+- Channel quality
+- Strategic access
+- Repeatability
+- Economics
+
+That helped move partnership management from relationship activity toward business contribution.
+
+Over time, partnerships represented approximately 18% to 20% of revenue.
+
+---
+
+# Leading and Lagging Indicators
+
+Another important distinction was separating what had already happened from what could still be influenced.
+
+## Leading Indicators
+
+These helped us intervene earlier:
+
+- Lead flow
+- SQL quality
+- Lead response time
+- Pipeline
+- Funnel movement
+- Conversion by stage
+- Sales activity
+- Partner pipeline
+- Customer feedback
+
+## Lagging Indicators
+
+These confirmed the eventual business outcome:
+
+- Revenue
+- CAC
+- Churn
+- NPS
+- Profitability
+
+Both mattered.
+
+But managing only lagging indicators means managing the past.
+
+The purpose of the operating system was to identify changes early enough to do something about them.
+
+---
+
+# Ownership
+
+Every important KPI needed an owner.
+
+Not someone responsible for presenting the number.
+
+Someone accountable for understanding it and acting when it moved off plan.
+
+That changed the conversation from:
+
+**"The number is down."**
+
+to:
+
+**"The number is down. We understand why. This is what we are doing. This person owns the intervention. We will review the result on this date."**
+
+That is a very different management conversation.
+
+---
+
+# The Rule
+
+The principle behind the KPI system became simple:
+
+> **Do not manage the number. Manage the system that produces the number.**
+
+A dashboard tells you what happened.
+
+Management begins when you understand why it happened and decide what to do next.
+---
+
 # The Principle Behind the Blueprint
 
 The system was designed to reduce the distance between:
