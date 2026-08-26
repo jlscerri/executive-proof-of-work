@@ -3,7 +3,7 @@
 Building a multi-market education business from a limited regional base and creating a repeatable model for expansion.
 
 **Company:** Crimson Education  
-**Role:** Country Manager, LATAM  
+**Role:** Country Manager → Chief Operating Officer  
 **Geography:** LATAM  
 **Business:** International education, university admissions consulting, tutoring, mentoring, and online education  
 **Mandate:** Build and scale the LATAM commercial operation  

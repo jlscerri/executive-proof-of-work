@@ -357,13 +357,15 @@ The purpose is to show how I approach real operating problems.
 
 # Selected Executive Cases
 
+![Selected Executive Progression](./assets/selected-executive-progression.svg)
+
 Quick reference — every case below is complete. Click through for the full context, decisions, execution, and outcomes.
 
 | # | Case | Company | Role | Status |
 |---|---|---|---|---|
 | 01 | [LATAM Business Turnaround & Operating System Redesign](./01-latam-business-turnaround-operating-system-redesign/README.md) | EF Education First | Managing Director | Complete |
 | 02 | [Spain Market Scale-Up & Commercial Engine Build](./02-nextory-spain-market-scale-up-and-commercial-engine-build/README.md) | Nextory | Country Manager, Spain | Complete |
-| 03 | [LATAM Market Build & Operating Model Replication](./03-latam-market-build-and-global-operating-model-replication/README.md) | Crimson Education | Country Manager, LATAM | Complete |
+| 03 | [LATAM Market Build & Operating Model Replication](./03-latam-market-build-and-global-operating-model-replication/README.md) | Crimson Education | Country Manager → Chief Operating Officer | Complete |
 | 04 | [From Market Turnarounds to Global Scale](./04-from-market-turnarounds-to-global-scale/README.md) | EF Education First | Sales Manager → VP Sales & Marketing Global | Complete |
 | 05 | [Building a B2B Commercial Engine From Zero](./05-building-a-b2b-commercial-engine-from-zero/README.md) | Brikensa España S.A. | Regional Sales Director | Complete |
 | 06 | [From Operating Experience to Executive Advisory](./06-from-operating-experience-to-executive-advisory/README.md) | N34 Executive Strategy & Innovation | Founder & Executive Advisor | Complete |
@@ -392,7 +394,7 @@ Building the commercial infrastructure required to scale a newly integrated subs
 
 ## 03. LATAM Market Build & Operating Model Replication
 
-**Crimson Education | Country Manager, LATAM | International education, university admissions consulting**
+**Crimson Education | Country Manager → Chief Operating Officer | International education, university admissions consulting**
 
 Building a multi-market education business from a limited regional base and creating a repeatable model for expansion.
 
@@ -412,7 +414,7 @@ Building a multi-market education business from a limited regional base and crea
 
 ## 05. Building a B2B Commercial Engine From Zero
 
-**Brikensa España S.A. | Regional Sales Director | Northern Spain | 2005–2009**
+**Brikensa España S.A. | Regional Sales Director | Northern Spain | Feb 2006 – Nov 2009**
 
 Building a regional B2B sales operation from the ground up, growing it to 30+ representatives, and creating the coverage, capability, and productivity required to sell a 300+ product portfolio profitably.
 

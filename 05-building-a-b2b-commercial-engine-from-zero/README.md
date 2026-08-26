@@ -4,7 +4,7 @@ Building a regional B2B sales operation from the ground up, growing it to 30+ re
 
 **Company:** Brikensa España S.A.  
 **Role:** Regional Sales Director  
-**Career Span:** 2005–2009  
+**Career Span:** February 2006 – November 2009  
 **Geography:** Northern Spain  
 **Business:** B2B chemical products and distribution  
 **Mandate:** Build and lead the regional commercial operation from zero  
@@ -369,7 +369,7 @@ A larger sales organization was useful only if it produced a stronger business.
 
 ## 08. Results
 
-Over nearly five years, the mandate developed into a regional B2B sales organization of more than 30 representatives.
+Over nearly four years, the mandate developed into a regional B2B sales organization of more than 30 representatives.
 
 | Dimension | Result |
 | --- | --- |
