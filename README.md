@@ -2,6 +2,10 @@
 
 ### Building the systems that turn business goals into execution and results.
 
+**Jump to:** [Selected Executive Cases](#selected-executive-cases) · [How I Build Each Case](#how-i-build-each-case) · [Confidentiality](#confidentiality) · [Executive Operating System](#executive-operating-system)
+
+---
+
 I have spent most of my career building, growing, fixing, and scaling businesses.
 
 Different companies. Different markets. Different problems.
@@ -353,148 +357,76 @@ The purpose is to show how I approach real operating problems.
 
 # Selected Executive Cases
 
+Quick reference — every case below is complete. Click through for the full context, decisions, execution, and outcomes.
+
+| # | Case | Company | Role | Status |
+|---|---|---|---|---|
+| 01 | [LATAM Business Turnaround & Operating System Redesign](./01-latam-business-turnaround-operating-system-redesign/README.md) | EF Education First | Managing Director | Complete |
+| 02 | [Spain Market Scale-Up & Commercial Engine Build](./02-nextory-spain-market-scale-up-and-commercial-engine-build/README.md) | Nextory | Country Manager, Spain | Complete |
+| 03 | [LATAM Market Build & Operating Model Replication](./03-latam-market-build-and-global-operating-model-replication/README.md) | Crimson Education | Country Manager, LATAM | Complete |
+| 04 | [From Market Turnarounds to Global Scale](./04-from-market-turnarounds-to-global-scale/README.md) | EF Education First | Sales Manager → VP Sales & Marketing Global | Complete |
+| 05 | [Building a B2B Commercial Engine From Zero](./05-building-a-b2b-commercial-engine-from-zero/README.md) | Brikensa España S.A. | Regional Sales Director | Complete |
+| 06 | [From Operating Experience to Executive Advisory](./06-from-operating-experience-to-executive-advisory/README.md) | N34 Executive Strategy & Innovation | Founder & Executive Advisor | Complete |
+
+---
+
 ## 01. LATAM Business Turnaround & Operating System Redesign
 
-**Context: Global education business | Selected LATAM markets | Multi-market leadership mandate**
+**EF Education First | Managing Director | LATAM | Full P&L leadership and business turnaround**
 
-An established regional operation was underperforming.
+Rebuilding the system.
 
-The challenge was bigger than sales.
-
-The underlying operating system needed to change.
-
-The work included:
-
-- Business and organizational diagnosis
-- Leadership changes
-- Clearer ownership and accountability
-- KPI redesign
-- Management cadence
-- GTM and ICP focus
-- Commercial execution
-- Pipeline and conversion management
-- Partnership development
-- Distribution expansion
-- Business unit development
-- Revenue management
-- Technology enablement
-- Performance management
-
-The objective was clear:
-
-**Build a stronger operating system and use it to restore business performance.**
-
-**Status: In development**
+**Status: Complete** — [Read the full case →](./01-latam-business-turnaround-operating-system-redesign/README.md)
 
 ---
 
-## 02. International Market Build & Scale
+## 02. Spain Market Scale-Up & Commercial Engine Build
 
-**Context: Global education technology business | LATAM | Market creation and regional scale**
+**Nextory | Country Manager, Spain | Digital subscription platform for ebooks and audiobooks**
 
-The mandate was to build rather than inherit.
+Building the commercial infrastructure required to scale a newly integrated subscription business in Spain.
 
-That meant creating the operating model required to develop new markets and then making that model repeatable.
-
-The work connected:
-
-- Market entry
-- GTM
-- ICP
-- Local teams
-- Partnerships
-- Commercial execution
-- Customer acquisition
-- Revenue
-- Operating discipline
-- Regional expansion
-
-The challenge was not simply entering markets.
-
-It was building a model that could work, learn, adapt, and then scale.
-
-**Status: Planned**
+**Status: Complete** — [Read the full case →](./02-nextory-spain-market-scale-up-and-commercial-engine-build/README.md)
 
 ---
 
-## 03. Greenfield P&L & Market Building
+## 03. LATAM Market Build & Operating Model Replication
 
-**Context: European subscription technology business | New market operation | P&L leadership**
+**Crimson Education | Country Manager, LATAM | International education, university admissions consulting**
 
-A market had to be built with direct responsibility for both growth and economics.
+Building a multi-market education business from a limited regional base and creating a repeatable model for expansion.
 
-The work connected:
-
-- Market entry
-- Commercial strategy
-- Customer acquisition
-- Partnerships
-- Pricing
-- Recurring revenue
-- Customer retention
-- Operations
-- Unit economics
-- P&L management
-
-The objective was not to administer an existing operation.
-
-**It was to build one.**
-
-**Status: Planned**
+**Status: Complete** — [Read the full case →](./03-latam-market-build-and-global-operating-model-replication/README.md)
 
 ---
 
-## 04. Organizational Transformation & Revenue System Redesign
+## 04. From Market Turnarounds to Global Scale
 
-**Context: International education and mobility business | LATAM | Organizational and commercial transformation**
+**EF Education First | Sales Manager → VP Sales & Marketing Global | Europe | LATAM | Global | 2009–2021**
 
-The organization needed a more integrated way to operate.
+12 years of increasing responsibility across Europe, LATAM, and global markets, progressing from commercial leadership to country management, business turnarounds, and ultimately a global mandate across more than 15 international markets.
 
-The work involved redesigning the connections between:
-
-- Leadership
-- Marketing
-- Lead management
-- Sales
-- Customer experience
-- GTM
-- ICP
-- KPIs
-- Management cadence
-- Revenue priorities
-- Team capability
-- New business development
-- Accountability
-
-The objective was to move from fragmented activity toward a more integrated system with clearer ownership and stronger execution.
-
-**Status: Planned**
+**Status: Complete** — [Read the full case →](./04-from-market-turnarounds-to-global-scale/README.md)
 
 ---
 
-## 05. Executive Advisory & Business Building
+## 05. Building a B2B Commercial Engine From Zero
 
-**Context: Independent executive advisory | Multiple businesses and markets | Growth and operating mandates**
+**Brikensa España S.A. | Regional Sales Director | Northern Spain | 2005–2009**
 
-Different businesses require different solutions.
+Building a regional B2B sales operation from the ground up, growing it to 30+ representatives, and creating the coverage, capability, and productivity required to sell a 300+ product portfolio profitably.
 
-The work has included supporting leadership teams across areas such as:
+**Status: Complete** — [Read the full case →](./05-building-a-b2b-commercial-engine-from-zero/README.md)
 
-- Growth
-- Market expansion
-- GTM
-- Commercial performance
-- Operating models
-- Organizational design
-- Revenue systems
-- Leadership
-- Business building
+---
 
-The objective is not to apply the same framework everywhere.
+## 06. From Operating Experience to Executive Advisory
 
-It is to understand the business, identify what is limiting performance, and build the system appropriate to that situation.
+**N34 Executive Strategy & Innovation | Founder & Executive Advisor | International | Europe | Latin America | Founded 2024**
 
-**Status: Planned**
+Turning more than two decades of operating experience into practical executive advisory, helping founders, CEOs, and leadership teams build the systems required to achieve better business outcomes.
+
+**Status: Complete** — [Read the full case →](./06-from-operating-experience-to-executive-advisory/README.md)
 
 ---
 
@@ -617,7 +549,7 @@ There should never be enough disclosure to compromise the trust of an organizati
 
 # Executive Operating System
 
-This repository sits alongside my **Executive Operating System**.
+This repository sits alongside my [**Executive Operating System**](https://github.com/jlscerri/executive-operating-system).
 
 That repository contains the practical systems and tools I use across diagnosis, KPIs, operating cadence, decision rights, GTM, revenue, leadership, transformation, AI, market expansion, organizational design, and performance management.
 
