@@ -4,6 +4,8 @@
 
 International Managing Director | Growth, Transformation & Global Operations — recruited repeatedly by founders, CEOs, and executive leadership teams to lead transformation, turnarounds, and international expansion across education, SaaS, healthcare, and technology-enabled businesses.
 
+![Executive Proof of Work](./assets/executive-proof-of-work.png)
+
 **Jump to:** [Executive Snapshot](#executive-snapshot) · [Headline Outcomes](#headline-outcomes) · [Selected Executive Progression](#selected-executive-progression) · [Selected Executive Cases](#selected-executive-cases) · [Executive Operating System](#executive-operating-system) · [LinkedIn](https://www.linkedin.com/in/jscerri/)
 
 ---
