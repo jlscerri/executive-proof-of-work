@@ -54,27 +54,7 @@ An employability problem can weaken the value proposition before admission.
 
 A growth problem can become an economic problem when acquisition cost, retention, or cost to serve deteriorates.
 
-I think about the education business through one connected operating system:
-
-**Proposition**
-↓
-**Demand**
-↓
-**Enrollment**
-↓
-**Experience**
-↓
-**Retention**
-↓
-**Outcomes**
-↓
-**Economics**
-↓
-**Reinvestment**
-
-Supported by:
-
-**People | Leadership | Data | Technology | Governance**
+I think about education as one connected operating system.
 
 Each stage affects what comes after it.
 
@@ -87,7 +67,6 @@ It is to attract the right students, convert them responsibly, deliver the exper
 <p align="center">
   <img src="./assets/education-operating-system.png" alt="Education Operating System" width="100%">
 </p>
----
 
 ## 02. The Education Operating System
 
