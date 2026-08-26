@@ -2,7 +2,244 @@
 
 ### Building the systems that turn business goals into execution and results.
 
-**Jump to:** [Selected Executive Cases](#selected-executive-cases) · [How I Build Each Case](#how-i-build-each-case) · [Confidentiality](#confidentiality) · [Executive Operating System](#executive-operating-system)
+International Managing Director / Chief Operating Officer-level operator, recruited repeatedly by founders, CEOs, and executive leadership teams to lead transformation, turnarounds, and international expansion across education, SaaS, healthcare, and technology-enabled businesses.
+
+**Jump to:** [Executive Snapshot](#executive-snapshot) · [Headline Outcomes](#headline-outcomes) · [Selected Executive Progression](#selected-executive-progression) · [Selected Executive Cases](#selected-executive-cases) · [Executive Operating System](#executive-operating-system) · [LinkedIn](https://www.linkedin.com/in/jscerri/)
+
+---
+
+# Executive Snapshot
+
+- Two decades of international operating and P&L leadership
+- 15+ countries — Latin America, Europe, and global markets
+- Directed multi-country organizations of 240+ professionals
+
+---
+
+# Headline Outcomes
+
+- **Turnaround** — EF Education First, Colombia (Managing Director): Reversed a declining commercial funnel — lifting conversion from approximately 1.5% to 3% and cutting CAC and churn from approximately 22% to 12% — restoring profitability within 12 months. [Read the case →](./01-latam-business-turnaround-operating-system-redesign/README.md)
+- **Ground-zero build** — Brikensa, Spain (Regional Sales Director): Built a 30+ person regional commercial organization from zero, delivering approximately 78% revenue growth in year one at approximately 40% operating margins. [Read the case →](./05-building-a-b2b-commercial-engine-from-zero/README.md)
+- **Market entry & scale** — Nextory, Spain (Country Manager): Launched a new market entry to approximately 6% market share and sustainable profitability, cutting CAC by approximately 46% along the way. [Read the case →](./02-nextory-spain-market-scale-up-and-commercial-engine-build/README.md)
+- **International replication** — Crimson Education, USA (Country Manager → Chief Operating Officer): Built an operating model that lifted SQL flow approximately 50% and cut CAC approximately 35%, then was promoted to Chief Operating Officer to replicate it across five additional countries. [Read the case →](./03-latam-market-build-and-global-operating-model-replication/README.md)
+
+Full context for each outcome — the situation, the decisions, and how it was built — is in the case studies below.
+
+---
+
+# Selected Executive Progression
+
+![Selected Executive Progression](./assets/selected-executive-progression.svg)
+
+---
+
+# Selected Executive Cases
+
+Quick reference — every case below is complete. Click through for the full context, decisions, execution, and outcomes.
+
+| # | Case | Company | Role | Status |
+|---|---|---|---|---|
+| 01 | [LATAM Business Turnaround & Operating System Redesign](./01-latam-business-turnaround-operating-system-redesign/README.md) | EF Education First | Managing Director | Complete |
+| 02 | [Spain Market Scale-Up & Commercial Engine Build](./02-nextory-spain-market-scale-up-and-commercial-engine-build/README.md) | Nextory | Country Manager, Spain | Complete |
+| 03 | [LATAM Market Build & Operating Model Replication](./03-latam-market-build-and-global-operating-model-replication/README.md) | Crimson Education | Country Manager → Chief Operating Officer | Complete |
+| 04 | [From Market Turnarounds to Global Scale](./04-from-market-turnarounds-to-global-scale/README.md) | EF Education First | Sales Manager → VP Sales & Marketing Global | Complete |
+| 05 | [Building a B2B Commercial Engine From Zero](./05-building-a-b2b-commercial-engine-from-zero/README.md) | Brikensa España S.A. | Regional Sales Director | Complete |
+| 06 | [From Operating Experience to Executive Advisory](./06-from-operating-experience-to-executive-advisory/README.md) | N34 Executive Strategy & Innovation | Founder & Executive Advisor | Complete |
+
+---
+
+## 01. LATAM Business Turnaround & Operating System Redesign
+
+**EF Education First | Managing Director | LATAM | Full P&L leadership and business turnaround**
+
+Rebuilding the system.
+
+**Status: Complete** — [Read the full case →](./01-latam-business-turnaround-operating-system-redesign/README.md)
+
+---
+
+## 02. Spain Market Scale-Up & Commercial Engine Build
+
+**Nextory | Country Manager, Spain | Digital subscription platform for ebooks and audiobooks**
+
+Building the commercial infrastructure required to scale a newly integrated subscription business in Spain.
+
+**Status: Complete** — [Read the full case →](./02-nextory-spain-market-scale-up-and-commercial-engine-build/README.md)
+
+---
+
+## 03. LATAM Market Build & Operating Model Replication
+
+**Crimson Education | Country Manager → Chief Operating Officer | International education, university admissions consulting**
+
+Building a multi-market education business from a limited regional base and creating a repeatable model for expansion.
+
+**Status: Complete** — [Read the full case →](./03-latam-market-build-and-global-operating-model-replication/README.md)
+
+---
+
+## 04. From Market Turnarounds to Global Scale
+
+**EF Education First | Sales Manager → VP Sales & Marketing Global | Europe | LATAM | Global | 2009–2021**
+
+12 years of increasing responsibility across Europe, LATAM, and global markets, progressing from commercial leadership to country management, business turnarounds, and ultimately a global mandate across more than 15 international markets.
+
+**Status: Complete** — [Read the full case →](./04-from-market-turnarounds-to-global-scale/README.md)
+
+---
+
+## 05. Building a B2B Commercial Engine From Zero
+
+**Brikensa España S.A. | Regional Sales Director | Northern Spain | Feb 2006 – Nov 2009**
+
+Building a regional B2B sales operation from the ground up, growing it to 30+ representatives, and creating the coverage, capability, and productivity required to sell a 300+ product portfolio profitably.
+
+**Status: Complete** — [Read the full case →](./05-building-a-b2b-commercial-engine-from-zero/README.md)
+
+---
+
+## 06. From Operating Experience to Executive Advisory
+
+**N34 Executive Strategy & Innovation | Founder & Executive Advisor | International | Europe | Latin America | Founded 2024**
+
+Turning more than two decades of operating experience into practical executive advisory, helping founders, CEOs, and leadership teams build the systems required to achieve better business outcomes.
+
+**Status: Complete** — [Read the full case →](./06-from-operating-experience-to-executive-advisory/README.md)
+
+---
+
+# How I Build Each Case
+
+Each case answers the same questions.
+
+### 1. What was the goal?
+
+What did the business need to achieve?
+
+### 2. What was happening?
+
+What did the situation actually look like?
+
+### 3. What did I find?
+
+What were the real problems or constraints?
+
+### 4. What mattered most?
+
+What did we prioritize?
+
+What did we deliberately not prioritize?
+
+### 5. What needed to change?
+
+What was the operating thesis?
+
+### 6. What did we build or redesign?
+
+People.
+
+Process.
+
+GTM.
+
+Revenue.
+
+Leadership.
+
+Technology.
+
+Structure.
+
+KPIs.
+
+Whatever the situation required.
+
+### 7. How did we execute?
+
+How did the plan become day-to-day operating reality?
+
+### 8. How did we manage performance?
+
+What did we measure?
+
+How often?
+
+Who owned it?
+
+What happened when performance moved off plan?
+
+### 9. What changed?
+
+What business outcomes followed?
+
+### 10. What did we learn?
+
+What worked?
+
+What did not?
+
+What changed because of what we learned?
+
+### 11. Could it scale?
+
+What became repeatable or transferable?
+
+---
+
+# No Management Theory
+
+There is already enough management theory in the world.
+
+That is not what I want to build here.
+
+Every case, system, template, or tool in this portfolio should pass one test:
+
+> **Could a CEO or leadership team actually use this on Monday morning?**
+
+If not, it probably does not belong here.
+
+---
+
+# Confidentiality
+
+There is another standard I will protect throughout this repository.
+
+**Trust.**
+
+These cases come from real companies and real operating situations.
+
+That does not mean every detail belongs in public.
+
+For that reason:
+
+- Company identities may be generalized in selected cases.
+- Specific countries may be described collectively as a region.
+- Sensitive internal financial information will not be published.
+- Some results may be expressed as percentages, ranges, indices, or directional improvements.
+- Customer, employee, partner, and commercially sensitive information will be anonymized.
+- Proprietary pricing, contracts, internal processes, and confidential strategy will not be disclosed.
+
+There should be enough evidence to understand the mandate, the decisions, the execution, and the outcomes.
+
+There should never be enough disclosure to compromise the trust of an organization I worked with.
+
+---
+
+# Executive Operating System
+
+This repository sits alongside my [**Executive Operating System**](https://github.com/jlscerri/executive-operating-system).
+
+That repository contains the practical systems and tools I use across diagnosis, KPIs, operating cadence, decision rights, GTM, revenue, leadership, transformation, AI, market expansion, organizational design, and performance management.
+
+The distinction is simple:
+
+**Executive Operating System = How I think and operate**
+
+**Executive Proof of Work = Where I have put it into practice**
+
+Together, they answer a question that matters more than a list of titles:
+
+> **How does this executive actually run, build, and improve a business?**
 
 ---
 
@@ -352,218 +589,6 @@ Business is rarely clean.
 The purpose here is not to make it look that way.
 
 The purpose is to show how I approach real operating problems.
-
----
-
-# Selected Executive Cases
-
-![Selected Executive Progression](./assets/selected-executive-progression.svg)
-
-Quick reference — every case below is complete. Click through for the full context, decisions, execution, and outcomes.
-
-| # | Case | Company | Role | Status |
-|---|---|---|---|---|
-| 01 | [LATAM Business Turnaround & Operating System Redesign](./01-latam-business-turnaround-operating-system-redesign/README.md) | EF Education First | Managing Director | Complete |
-| 02 | [Spain Market Scale-Up & Commercial Engine Build](./02-nextory-spain-market-scale-up-and-commercial-engine-build/README.md) | Nextory | Country Manager, Spain | Complete |
-| 03 | [LATAM Market Build & Operating Model Replication](./03-latam-market-build-and-global-operating-model-replication/README.md) | Crimson Education | Country Manager → Chief Operating Officer | Complete |
-| 04 | [From Market Turnarounds to Global Scale](./04-from-market-turnarounds-to-global-scale/README.md) | EF Education First | Sales Manager → VP Sales & Marketing Global | Complete |
-| 05 | [Building a B2B Commercial Engine From Zero](./05-building-a-b2b-commercial-engine-from-zero/README.md) | Brikensa España S.A. | Regional Sales Director | Complete |
-| 06 | [From Operating Experience to Executive Advisory](./06-from-operating-experience-to-executive-advisory/README.md) | N34 Executive Strategy & Innovation | Founder & Executive Advisor | Complete |
-
----
-
-## 01. LATAM Business Turnaround & Operating System Redesign
-
-**EF Education First | Managing Director | LATAM | Full P&L leadership and business turnaround**
-
-Rebuilding the system.
-
-**Status: Complete** — [Read the full case →](./01-latam-business-turnaround-operating-system-redesign/README.md)
-
----
-
-## 02. Spain Market Scale-Up & Commercial Engine Build
-
-**Nextory | Country Manager, Spain | Digital subscription platform for ebooks and audiobooks**
-
-Building the commercial infrastructure required to scale a newly integrated subscription business in Spain.
-
-**Status: Complete** — [Read the full case →](./02-nextory-spain-market-scale-up-and-commercial-engine-build/README.md)
-
----
-
-## 03. LATAM Market Build & Operating Model Replication
-
-**Crimson Education | Country Manager → Chief Operating Officer | International education, university admissions consulting**
-
-Building a multi-market education business from a limited regional base and creating a repeatable model for expansion.
-
-**Status: Complete** — [Read the full case →](./03-latam-market-build-and-global-operating-model-replication/README.md)
-
----
-
-## 04. From Market Turnarounds to Global Scale
-
-**EF Education First | Sales Manager → VP Sales & Marketing Global | Europe | LATAM | Global | 2009–2021**
-
-12 years of increasing responsibility across Europe, LATAM, and global markets, progressing from commercial leadership to country management, business turnarounds, and ultimately a global mandate across more than 15 international markets.
-
-**Status: Complete** — [Read the full case →](./04-from-market-turnarounds-to-global-scale/README.md)
-
----
-
-## 05. Building a B2B Commercial Engine From Zero
-
-**Brikensa España S.A. | Regional Sales Director | Northern Spain | Feb 2006 – Nov 2009**
-
-Building a regional B2B sales operation from the ground up, growing it to 30+ representatives, and creating the coverage, capability, and productivity required to sell a 300+ product portfolio profitably.
-
-**Status: Complete** — [Read the full case →](./05-building-a-b2b-commercial-engine-from-zero/README.md)
-
----
-
-## 06. From Operating Experience to Executive Advisory
-
-**N34 Executive Strategy & Innovation | Founder & Executive Advisor | International | Europe | Latin America | Founded 2024**
-
-Turning more than two decades of operating experience into practical executive advisory, helping founders, CEOs, and leadership teams build the systems required to achieve better business outcomes.
-
-**Status: Complete** — [Read the full case →](./06-from-operating-experience-to-executive-advisory/README.md)
-
----
-
-# How I Build Each Case
-
-Each case answers the same questions.
-
-### 1. What was the goal?
-
-What did the business need to achieve?
-
-### 2. What was happening?
-
-What did the situation actually look like?
-
-### 3. What did I find?
-
-What were the real problems or constraints?
-
-### 4. What mattered most?
-
-What did we prioritize?
-
-What did we deliberately not prioritize?
-
-### 5. What needed to change?
-
-What was the operating thesis?
-
-### 6. What did we build or redesign?
-
-People.
-
-Process.
-
-GTM.
-
-Revenue.
-
-Leadership.
-
-Technology.
-
-Structure.
-
-KPIs.
-
-Whatever the situation required.
-
-### 7. How did we execute?
-
-How did the plan become day-to-day operating reality?
-
-### 8. How did we manage performance?
-
-What did we measure?
-
-How often?
-
-Who owned it?
-
-What happened when performance moved off plan?
-
-### 9. What changed?
-
-What business outcomes followed?
-
-### 10. What did we learn?
-
-What worked?
-
-What did not?
-
-What changed because of what we learned?
-
-### 11. Could it scale?
-
-What became repeatable or transferable?
-
----
-
-# No Management Theory
-
-There is already enough management theory in the world.
-
-That is not what I want to build here.
-
-Every case, system, template, or tool in this portfolio should pass one test:
-
-> **Could a CEO or leadership team actually use this on Monday morning?**
-
-If not, it probably does not belong here.
-
----
-
-# Confidentiality
-
-There is another standard I will protect throughout this repository.
-
-**Trust.**
-
-These cases come from real companies and real operating situations.
-
-That does not mean every detail belongs in public.
-
-For that reason:
-
-- Company identities may be generalized in selected cases.
-- Specific countries may be described collectively as a region.
-- Sensitive internal financial information will not be published.
-- Some results may be expressed as percentages, ranges, indices, or directional improvements.
-- Customer, employee, partner, and commercially sensitive information will be anonymized.
-- Proprietary pricing, contracts, internal processes, and confidential strategy will not be disclosed.
-
-There should be enough evidence to understand the mandate, the decisions, the execution, and the outcomes.
-
-There should never be enough disclosure to compromise the trust of an organization I worked with.
-
----
-
-# Executive Operating System
-
-This repository sits alongside my [**Executive Operating System**](https://github.com/jlscerri/executive-operating-system).
-
-That repository contains the practical systems and tools I use across diagnosis, KPIs, operating cadence, decision rights, GTM, revenue, leadership, transformation, AI, market expansion, organizational design, and performance management.
-
-The distinction is simple:
-
-**Executive Operating System = How I think and operate**
-
-**Executive Proof of Work = Where I have put it into practice**
-
-Together, they answer a question that matters more than a list of titles:
-
-> **How does this executive actually run, build, and improve a business?**
 
 ---
 
