@@ -10,20 +10,24 @@ International Managing Director | Growth, Transformation & Global Operations —
 
 # Executive Snapshot
 
-- Two decades of international operating and P&L leadership
-- 15+ countries — Latin America, Europe, and global markets
-- Directed multi-country organizations of 240+ professionals
+- **Two decades** of international operating and P&L leadership
+- Built and operated businesses across **15+ international markets**
+- Led organizations of **100+ people** and global matrix teams of **90+ professionals**
+- Built businesses, markets, commercial organizations, and operating models from zero
 
 ---
 
 # Headline Outcomes
 
-- **Turnaround** — EF Education First, Colombia (Managing Director): Reversed a declining commercial funnel — lifting conversion from approximately 1.5% to 3% and cutting CAC and churn from approximately 22% to 12% — restoring profitability within 12 months. [Read the case →](./01-latam-business-turnaround-operating-system-redesign/README.md)
-- **Ground-zero build** — Brikensa, Spain (Regional Sales Director): Built a 30+ person regional commercial organization from zero, delivering approximately 78% revenue growth in year one at approximately 40% operating margins. [Read the case →](./05-building-a-b2b-commercial-engine-from-zero/README.md)
-- **Market entry & scale** — Nextory, Spain (Country Manager): Launched a new market entry to approximately 6% market share and sustainable profitability, cutting CAC by approximately 46% along the way. [Read the case →](./02-nextory-spain-market-scale-up-and-commercial-engine-build/README.md)
-- **International replication** — Crimson Education, USA (Country Manager → Chief Operating Officer): Built an operating model that lifted SQL flow approximately 50% and cut CAC approximately 35%, then was promoted to Chief Operating Officer to replicate it across five additional countries. [Read the case →](./03-latam-market-build-and-global-operating-model-replication/README.md)
+- **Turnaround** — EF Education First, LATAM (Managing Director): Reversed a declining commercial funnel, lifting conversion from approximately 1.5% to 3% and cutting CAC and churn from approximately 22% to 12%, restoring profitability within 12 months. [Read the case →](./01-latam-business-turnaround-operating-system-redesign/README.md)
 
-Full context for each outcome — the situation, the decisions, and how it was built — is in the case studies below.
+- **Ground-zero build** — Brikensa, Spain (Regional Sales Director): Built a 30+ person regional commercial organization from zero, delivering approximately 78% revenue growth in year one at approximately 40% operating margins. [Read the case →](./05-building-a-b2b-commercial-engine-from-zero/README.md)
+
+- **Market entry & scale** — Nextory, Spain (Country Manager): Launched a new market entry to approximately 6% market share and sustainable profitability, cutting CAC by approximately 46% along the way. [Read the case →](./02-nextory-spain-market-scale-up-and-commercial-engine-build/README.md)
+
+- **International replication** — Crimson Education, USA (Country Manager): Built an operating model that increased SQL flow approximately 50% and reduced CAC approximately 35%, then expanded the model across the UK, India, USA, UAE, and China. [Read the case →](./03-latam-market-build-and-global-operating-model-replication/README.md)
+
+Full context for each outcome, including the situation, decisions, operating model, and execution behind the result, is in the case studies below.
 
 ---
 
