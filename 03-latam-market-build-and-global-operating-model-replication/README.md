@@ -1036,7 +1036,7 @@ The next market should benefit from everything already learned.
 
 ## The Operating Principle
 
-If I had to reduce the LATAM build to one operating principle:
+The principle behind the LATAM build, in one line:
 
 > **Standardize the system. Localize the execution.**
 
@@ -1058,8 +1058,4 @@ That is how expansion becomes more repeatable.
 
 ## Confidentiality
 
-This case is based on my operating experience at Crimson Education.
-
-Absolute revenue, internal budgets, pricing levels, targets, compensation, contract economics, and other commercially sensitive financial information have been intentionally omitted.
-
-Selected percentages, operational improvements, market indicators, timeframes, and relative performance measures are included where they help demonstrate the nature and scale of the work without disclosing confidential company information.
+Revenue, budgets, pricing, and compensation details from my time at Crimson Education are withheld here. The percentages, timeframes, and market indicators below are what's needed to show how the model was built and replicated.

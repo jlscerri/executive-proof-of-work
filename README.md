@@ -2,7 +2,7 @@
 
 ### Building the systems that turn business goals into execution and results.
 
-International Managing Director / Chief Operating Officer-level operator, recruited repeatedly by founders, CEOs, and executive leadership teams to lead transformation, turnarounds, and international expansion across education, SaaS, healthcare, and technology-enabled businesses.
+International Managing Director | Growth, Transformation & Global Operations — recruited repeatedly by founders, CEOs, and executive leadership teams to lead transformation, turnarounds, and international expansion across education, SaaS, healthcare, and technology-enabled businesses.
 
 **Jump to:** [Executive Snapshot](#executive-snapshot) · [Headline Outcomes](#headline-outcomes) · [Selected Executive Progression](#selected-executive-progression) · [Selected Executive Cases](#selected-executive-cases) · [Executive Operating System](#executive-operating-system) · [LinkedIn](https://www.linkedin.com/in/jscerri/)
 
@@ -243,91 +243,25 @@ Together, they answer a question that matters more than a list of titles:
 
 ---
 
-I have spent most of my career building, growing, fixing, and scaling businesses.
-
-Different companies. Different markets. Different problems.
-
-But one thing has been consistent:
+I have spent most of my career building, growing, fixing, and scaling businesses — different companies, different markets, different problems. But one thing has been consistent:
 
 **Whatever the goal is, the business needs a system capable of delivering it.**
 
-That is how I approach management.
+That is how I approach management: understand the goal, understand what is really happening in the business, find what is getting in the way, decide what matters most, build or redesign what is needed, get the right people around it, execute, measure, adjust, and keep moving.
 
-Understand the goal.
-
-Understand what is really happening in the business.
-
-Find what is getting in the way.
-
-Decide what matters most.
-
-Build or redesign what is needed.
-
-Get the right people around it.
-
-Execute.
-
-Measure.
-
-Adjust.
-
-Keep moving.
-
-Sometimes the problem is commercial.
-
-Sometimes it is operational.
-
-Sometimes it is leadership.
-
-Sometimes the GTM is wrong.
-
-Sometimes the organization is targeting the wrong customer.
-
-Sometimes there is no clear ownership.
-
-Sometimes the KPIs are measuring activity instead of performance.
-
-Sometimes the opportunity is there, but the organization is simply not built to capture it.
-
-Usually, several of these are connected.
-
-That is why I think in systems.
+The problem is sometimes commercial, sometimes operational, sometimes leadership. Sometimes the GTM is aimed at the wrong customer, or there is no clear ownership, or the KPIs are measuring activity instead of performance — or the opportunity is there and the organization simply is not built to capture it. Usually it is more than one of these at once, tangled together. That is why I think in systems rather than symptoms.
 
 ---
 
 # How I Work
 
-I start with the outcome.
-
-**What are we actually trying to achieve?**
-
-Growth?
-
-Profitability?
-
-A turnaround?
-
-A new market?
-
-A new business?
-
-Better execution?
-
-A stronger commercial engine?
-
-A more scalable organization?
+I start with the outcome: what are we actually trying to achieve? Growth, profitability, a turnaround, a new market, a new business, better execution, a stronger commercial engine, a more scalable organization — the answer changes what I do next.
 
 Once the outcome is clear, I work backwards.
 
 **Goal → Reality → Diagnosis → Priorities → System → Execution → Measurement → Adjustment → Result**
 
-That can take me from a P&L review in the morning to a pipeline discussion with sales, a leadership decision, a customer conversation, a partnership negotiation, or an operating problem later that day.
-
-That is part of running a business.
-
-You need to understand the big picture.
-
-You also need to be willing to get into the detail when the detail is where the problem is.
+That can take me from a P&L review in the morning to a pipeline discussion with sales, a leadership decision, a customer conversation, a partnership negotiation, or an operating problem later that day. That is part of running a business — you need to understand the big picture, and you need to be willing to get into the detail when the detail is where the problem is.
 
 ---
 
@@ -594,7 +528,9 @@ The purpose is to show how I approach real operating problems.
 
 # José Luis Scerri
 
-International Executive Operator | General Management | Operations | Growth | GTM | Revenue | Transformation | Market Expansion
+International Managing Director | Growth, Transformation & Global Operations
+
+General Management · Operations · GTM & Revenue · Transformation · Market Expansion
 
 **Building the systems that turn business goals into execution and results.**
 

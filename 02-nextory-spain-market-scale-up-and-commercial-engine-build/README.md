@@ -847,8 +847,6 @@ The first plan is rarely the final model.
 
 ## The Operating Principle
 
-If I had to reduce this scale-up to one idea:
-
 > **When direct customer acquisition is expensive, do not automatically spend more. Ask who already has access to the customers you want.**
 
 Then build a proposition that creates value for:
@@ -863,8 +861,4 @@ Distribution can become an advantage when it is designed as part of the commerci
 
 ## Confidentiality
 
-This case is based on my operating experience at Nextory.
-
-Absolute revenue, ARR, internal targets, budgets, contract economics, and other commercially sensitive financial information have been intentionally omitted.
-
-Selected percentages, operational improvements, market indicators, and relative performance measures are included where they help demonstrate the scale and nature of the work without disclosing confidential company information.
+The absolute revenue, ARR, and contract economics behind this scale-up stay with Nextory. The percentages and market indicators below are enough to show what the market entry actually looked like.

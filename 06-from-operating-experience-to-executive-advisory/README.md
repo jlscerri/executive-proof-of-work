@@ -929,8 +929,6 @@ The underlying capability is simple:
 
 ## 12. The Operating Principle
 
-If I had to reduce N34 to one operating principle:
-
 > **Do not manage the outcome alone. Build the system that produces it.**
 
 If revenue is weak, understand the revenue system.
@@ -979,10 +977,4 @@ That is N34.
 
 ## Confidentiality
 
-This case is based on my work through N34 Executive Strategy & Innovation.
-
-Client names, internal strategies, financial information, pricing, contracts, proprietary data, and confidential engagement details have been omitted or generalized.
-
-Industries, business problems, advisory capabilities, and selected applications are included where they demonstrate the nature of the work without disclosing confidential client information.
-
-Individual engagements may appear separately in this portfolio where the work can be presented with sufficient context and appropriate confidentiality.
+Client names, financial details, pricing, and engagement-specific information are withheld throughout. What's shown here — industries, problems, and applications — is enough to describe how the advisory work operates without identifying any client. Individual engagements may appear separately in this portfolio where the work can be presented with sufficient context and appropriate confidentiality.

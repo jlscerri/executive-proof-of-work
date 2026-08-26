@@ -513,8 +513,6 @@ Understanding those drivers makes performance easier to manage.
 
 ## 11. The Operating Principle
 
-If I had to reduce this experience to one principle:
-
 > **Build the commercial capacity. Make it productive. Scale when the economics work.**
 
 The sequence matters.
@@ -551,8 +549,4 @@ It also became part of how I approached the larger commercial, country, regional
 
 ## Confidentiality
 
-This case is based on my operating experience at Brikensa España S.A.
-
-Detailed customer information, pricing, product-level economics, compensation structures, internal targets, and other commercially sensitive information have been omitted.
-
-Selected percentages, productivity measures, organizational scale, and operating indicators are included where necessary to demonstrate the nature and scale of the work.
+Customer detail, pricing, product-level economics, and compensation structures from Brikensa España S.A. are omitted here. The productivity and organizational-scale numbers below are what's needed to show how the regional operation was actually built.

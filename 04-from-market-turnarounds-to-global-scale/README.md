@@ -1155,7 +1155,7 @@ The management approach became increasingly consistent:
 
 ## 13. The Operating Principle
 
-If I had to reduce more than 11 years of progression to one leadership principle, it would be this:
+Looking back at that progression, one leadership principle held throughout:
 
 > **As responsibility increases, leadership has to move from producing the result to building the organization that produces the result.**
 
@@ -1191,8 +1191,4 @@ It is to build an organization capable of performing without depending on the ex
 
 ## Confidentiality
 
-This case is based on my operating experience at EF Education First.
-
-Internal budgets, pricing, compensation, employee information, detailed financial data, targets, and other commercially sensitive information have been omitted or generalized.
-
-Selected percentages, operating metrics, organizational scale, market indicators, and relative performance measures are included where necessary to demonstrate the nature and scale of the work.
+This traces my progression at EF Education First, so the same limits apply as in the turnaround case: budgets, pricing, compensation, and employee-level detail are withheld or generalized. The metrics and organizational-scale figures below are what's needed to show how the role, and the responsibility, actually grew.

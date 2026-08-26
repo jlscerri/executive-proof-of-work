@@ -884,8 +884,6 @@ Execution will tell you things the original plan could not.
 
 # The Operating Principle
 
-If I had to reduce the turnaround to one idea:
-
 > **When a business is underperforming, do not start by pushing harder. Start by understanding what is producing the result.**
 
 Make the problem visible.
@@ -910,8 +908,4 @@ Then repeat.
 
 # Confidentiality
 
-This case is based on my operating experience at EF Education First.
-
-Certain country-level financial information, internal targets, budgets, employee information, and commercially sensitive details have been aggregated, generalized, or omitted.
-
-Selected operating metrics are included where they help explain the transformation without disclosing information that should remain confidential.
+Some of this is necessarily general. Country-level financials, internal targets, and individual employee details stay with EF Education First. What's here is enough to show how the turnaround actually worked.
