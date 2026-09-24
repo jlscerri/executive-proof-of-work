@@ -98,15 +98,43 @@ My operating range sits at the intersection of:
 
 The individual cases show **where I have operated and what changed**.
 
-These operating systems show **how I think about building repeatable business performance**.
+The operating systems show **how I think about building businesses that can execute, improve, and scale**.
 
 They are derived from operating experience rather than management theory.
 
 ---
 
-## 07 | Education Business Operating System
+## 09 | Executive Operating System
 
-### Building education businesses that can grow without losing control of delivery, customer value, or economics.
+### From strategy to scalable execution.
+
+![Executive Operating System](./assets/executive-operating-system.png)
+
+The enterprise-level operating architecture connecting strategy with execution.
+
+**Direction → Operating Model → People & Ownership → Delivery & Customer Experience → Growth & Economics → Management System → Execution**
+
+Built around a simple principle:
+
+> **Strategy sets direction. The operating system determines whether the organization can deliver it.**
+
+The system connects the disciplines required to build, fix, and scale a business:
+
+**Strategy | Organization | Operations | Customer Experience | Growth | P&L | Productivity | Governance | Execution**
+
+It is the umbrella operating architecture behind my work across country leadership, P&L ownership, business turnarounds, multi-market operations, international scale, and transformation.
+
+**[Explore the Executive Operating System →](./09-executive-operating-system-from-strategy-to-scalable-execution/README.md)**
+
+---
+
+## Specialized Operating Systems
+
+The enterprise operating system can be applied more deeply to specific industries and business disciplines.
+
+### 07 | Education Business Operating System
+
+**Building education businesses that can grow without losing control of delivery, customer value, or economics.**
 
 A practical operating architecture connecting:
 
@@ -120,25 +148,19 @@ Derived from operating experience across education businesses, international mar
 
 **[Explore the Education Business Operating System →](./07-education-business-operating-system/README.md)**
 
----
+### 08 | Revenue Growth Operating System
 
-## 08 | Revenue Growth Operating System
+**Turning market opportunity into predictable, profitable revenue.**
 
-### Turning market opportunity into predictable, profitable revenue.
-
-A CRO-level commercial architecture connecting:
+A revenue architecture connecting:
 
 **Market → Proposition → GTM → Demand → Pipeline → Conversion → Customer → Retention → Economics → Scale**
-
-Built around five recurring revenue mandates:
-
-**BUILD | FIX | GROW | SCALE | REPLICATE**
 
 Supported by:
 
 **People | Leadership | Data | Technology | Forecasting | Governance**
 
-The system is backed by evidence across global commercial scale, LATAM turnaround, market entry, B2B build, partnerships, acquisition economics, retention, and international replication.
+The system is backed by evidence across global commercial scale, LATAM turnaround, market scale-up, B2B build, partnerships, acquisition economics, retention, and international replication.
 
 **[Explore the Revenue Growth Operating System →](./08-revenue-growth-operating-system/README.md)**
 
