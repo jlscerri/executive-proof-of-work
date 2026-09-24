@@ -1,3 +1,7 @@
+![Executive Operating System](../assets/executive-operating-system.png)
+
+---
+
 # Executive Operating System
 
 ### From Strategy to Scalable Execution
